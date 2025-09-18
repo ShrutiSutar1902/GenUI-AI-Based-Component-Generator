@@ -67,3 +67,5 @@ Enter a description of the component you want (e.g., "Card with image, title, de
 Click Generate.
 
 Copy the JSX/TSX code and use it in your React project.
+<img width="1912" height="842" alt="Screenshot 2025-09-18 195453" src="https://github.com/user-attachments/assets/be58df34-346b-4301-a94d-52823517933c" />
+
